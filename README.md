@@ -10,9 +10,7 @@ Please complete the following steps to the best of your ability. All application
 
 ## Personality Test
 
-[Take the Classical Enneagram Test.](https://www.eclecticenergies.com/enneagram/test)
-
-Please answer all the questions as honestly as you can, and let us know the number the test results reveal. There are no bad personalities, and this will help us understand you better.
+1w9
 
 ---
 
