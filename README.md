@@ -10,7 +10,7 @@ Please complete the following steps to the best of your ability. All application
 
 ## Personality Test
 
-1w9
+Enneagram Type: **1w9**
 
 ---
 
