@@ -1,15 +1,15 @@
 # Submission
 
 ### Contact Information
-- John Doe
-- (###) ### - ####
-- email@email.com
+- Stanley Razumov
+- (417) 860 - 9342
+- stan.razumov@gmail.com
 
 ---
 
 ### Personality Test
 
-Personality Result - #
+Personality Result - 1w9
 
 ---
 
