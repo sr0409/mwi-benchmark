@@ -7,7 +7,6 @@ let ul = document.getElementById("puzzle")
 console.log(ul)
 let clicked = false;
 trigger.addEventListener("click", () => {
-    console.log("event list fired")
     let li = ""
     if(!clicked){
         resultObj.forEach(element => {

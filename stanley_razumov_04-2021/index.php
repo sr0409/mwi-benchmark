@@ -106,9 +106,9 @@
             </p>
             <ul id="puzzle"></ul>
             <br>
-        </div>
-        
+        </div>      
 </body>
+
 <footer class="mt-auto">
     <p>Thanks for taking the Midwestern Interactive Benchmark Test.</p>
 </footer>
