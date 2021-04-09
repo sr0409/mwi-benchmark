@@ -101,7 +101,7 @@
             </div>
             <p>Remove the duplicates in 2 Javascript objects and output the list of 
                 distinct names in an unordered list when this 
-                <a href="#" id="trigger-link">link is clicked</a>, if the operation has been completed 
+                <a href="#/" id="trigger-link">link is clicked</a>, if the operation has been completed 
                 already notify the user that this already been done.
             </p>
             <ul id="puzzle"></ul>

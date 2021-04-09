@@ -50,6 +50,9 @@ input, textarea {
     width: 100%;
     border: 0;
 }
+textarea {
+    resize: none !important;
+}
 .btn[type="submit"] {
     width: auto;
 }
