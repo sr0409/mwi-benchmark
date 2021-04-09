@@ -23,7 +23,7 @@ paragraphs (this could be your company's core values, history, or anything you m
 I would greatly appreciate if you could send that to us within the next couple of days in order for us to finish the website before 
 the deadline.
 
-Best Regards,
+Best Regards,  
 Stanley Razumov
 
 
