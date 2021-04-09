@@ -1,0 +1,95 @@
+body {
+    margin: 10px !important;
+}
+.logo-container {
+    width: 33%;
+}
+#header_logo {
+    padding-top: 20px;
+}
+#logo_divider {
+    border: 1px solid black;
+    opacity: 1;
+}
+.grey-block {
+    height: 100px;
+    background-color: lightgrey;
+}
+.row, .col-sm {
+    margin-bottom: 20px;
+}
+.container-fluid {
+    margin-top: 20px;
+    width: 90% !important;
+}
+.col-sm p , h2 {
+    color: grey;
+}
+.btn {
+    border-radius: 0 !important;
+}
+.contact-form-container {   
+    max-width: 100% !important;
+    background-color: lightgrey;   
+}
+form {
+    color: white !important;
+}
+.success, .error {
+    float: right;
+    font-style: italic;
+}
+.error, #trigger-link {
+    color: red;
+}
+.success {
+    color: green;
+    font-size: 1.1rem;
+}
+input, textarea {
+    width: 100%;
+    border: 0;
+}
+textarea {
+    resize: none !important;
+}
+.btn[type="submit"] {
+    width: auto;
+}
+legend {
+    text-align: center;
+}
+legend h2 {
+    color: white;
+}
+fieldset {
+    padding: 5px !important;
+    
+}
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+footer {
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+footer p {
+    padding: 10px;
+    margin: 0;
+    font-style: italic;
+}
+
+@media (max-width: 767.98px) {
+    .logo-container{
+        width: 66%;
+    }
+    body {
+        margin: 5px !important;
+    }
+    .container-fluid {
+        margin-bottom: 10px;
+    }
+}
