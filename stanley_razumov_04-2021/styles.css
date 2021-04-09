@@ -11,19 +11,17 @@ body {
     border: 1px solid black;
     opacity: 1;
 }
-.grey-block{
+.grey-block {
     height: 100px;
     background-color: lightgrey;
 }
 .row, .col-sm {
     margin-bottom: 20px;
 }
-
 .container-fluid {
     margin-top: 20px;
     width: 90% !important;
 }
-
 .col-sm p , h2 {
     color: grey;
 }
@@ -32,8 +30,7 @@ body {
 }
 .contact-form-container {   
     max-width: 100% !important;
-    background-color: lightgrey;
-    
+    background-color: lightgrey;   
 }
 form {
     color: white !important;
@@ -42,7 +39,7 @@ form {
     float: right;
     font-style: italic;
 }
-.error {
+.error, #trigger-link {
     color: red;
 }
 .success {
@@ -59,18 +56,18 @@ input, textarea {
 legend {
     text-align: center;
 }
-legend h2{
+legend h2 {
     color: white;
 }
 fieldset {
     padding: 5px !important;
     
 }
-.col-centered{
+.col-centered {
     float: none;
     margin: 0 auto;
 }
-footer{
+footer {
     margin-top: 10px;
     color: white;
     background-color: black;
@@ -80,10 +77,9 @@ footer p {
     padding: 10px;
     margin: 0;
     font-style: italic;
-
 }
 
-@media (max-width: 767.98px){
+@media (max-width: 767.98px) {
     .logo-container{
         width: 66%;
     }

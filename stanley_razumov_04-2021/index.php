@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Midwestern Interactive</title>
     <link rel="icon" href="https://midwesterninteractive.com/build/images/logo.png">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/styles.css" type>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"> 
+    <script src="/puzzle_script.js" type="text/javascript" defer></script>
     <?php include 'validator.php';?> 
 </head>
 <header>
@@ -103,10 +104,13 @@
                 <a href="#" id="trigger-link">link is clicked</a>, if the operation has been completed 
                 already notify the user that this already been done.
             </p>
+            <ul id="puzzle"></ul>
             <br>
         </div>
+        
 </body>
 <footer class="mt-auto">
     <p>Thanks for taking the Midwestern Interactive Benchmark Test.</p>
 </footer>
+
 </html>
